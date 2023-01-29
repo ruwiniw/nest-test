@@ -1,0 +1,1 @@
+export const AWS_SECRETS_MANAGER_TOKEN = 'calgrows/courses/db/url';
